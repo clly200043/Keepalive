@@ -7,7 +7,7 @@ from typing import List, Dict, Tuple, Any, Optional
 from datetime import datetime, timezone, timedelta
 
 # --- 常量定义 ---
-KOYEB_PROFILE_URL = "https://moderate-verene-clly-8f194482.koyeb.app/"
+KOYEB_PROFILE_URL = "https://moderate-verene-clly-8f194482.koyeb.app"
 REQUEST_TIMEOUT = 30  # 请求超时，单位：秒
 BEIJING_TZ = timezone(timedelta(hours=8))
 
